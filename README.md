@@ -13,4 +13,4 @@ This repository contains my solutions to the assignments for the EECS-498.008/59
 
 These solutions are based on the public course materials available from the University of Michigan's deep learning for computer vision course.
 
-Course website: https://web.eecs.umich.edu/~justincj/teaching/eecs498/fa2022/ 
+Course website: https://web.eecs.umich.edu/~justincj/teaching/eecs498/fa2022/
