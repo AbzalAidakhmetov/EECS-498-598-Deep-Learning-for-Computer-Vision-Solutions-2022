@@ -1,4 +1,4 @@
-# EECS-498.008/598.008: Deep Learning for Computer Vision Solutions (2022)
+# EECS-498/598: Deep Learning for Computer Vision Solutions (2022)
 
 This repository contains my solutions to the assignments for the EECS-498.008/598.008 Deep Learning for Computer Vision course (Winter 2022 offering).
 
